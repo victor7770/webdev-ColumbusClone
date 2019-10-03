@@ -1,1 +1,342 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 /* CSS code  */
+.buttons{
+    background-image: url(https://bbk12e1-cdn.myschoolcdn.com/ftpimages/709/site/1075/images/bg.png);
+    background-color: #10243B;
+    display: inline;
+    padding: 15px;
+    padding-bottom: 20px;
+}
+.text a{
+    color: #ffffff;
+    text-shadow: 0px 2px 3px #333333;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 4px;
+    
+}
+body{
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+.buttons2{
+    background-color: #005983;
+    display: inline;
+    padding: 15px 9.25px;
+    padding-bottom: 20px;
+    border-left: 1px solid #ffffff;
+}
+img{
+    margin: -10px;
+}
+.text2 a{
+    color: #a3dde8;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-decoration: none;
+    padding: 4px;
+}
+#hero {
+    background-image: url(images/graduation.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 98.85vw;
+    height: 91vh;
+    
+  }
+  #shadow{
+    background-image: linear-gradient(to bottom, rgba(51,51,51,0.8),rgba(51,51,51,0) 56%,rgba(51,51,51,0) 100%); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 98.85vw;
+    height: 91vh;  
+}
+.imgc{
+    padding-left: 25px;
+    padding-top: 127.5px;
+    vertical-align: -40px;
+}
+.herotext2{
+    font-family: 'PT Serif', serif;
+    font-style: italic;
+    font-size: 1.125em;
+    color: white;
+    text-shadow: 0px 2px 3px #333333;
+    display: inline;
+    
+}
+.herotext1{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 2.25rem;
+    color: white;
+    text-shadow: 0px 2px 3px #333333;
+    display: inline;
+    text-transform: uppercase;
+}
+.setsize{
+    width: 750px;
+    margin-left: 20px; 
+    display: inline-block;
+}
+/*-------explorecchs--------*/
+
+#explorecchs{
+    width: 98.85vw;
+    height: 100px;
+    background-image: url(https://bbk12e1-cdn.myschoolcdn.com/ftpimages/709/site/1075/images/bg.png);
+    background-color: #10243B;
+}
+#exploreheader{
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 25px 10px 25px 10px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+#exploresec{
+    background-color: #a3dde8;
+    height: 375px;
+    width: 98.85vw;
+}
+.explorebox{
+    height: 370.75px;
+    width: 25.68vw;
+    display: inline-block;
+    padding-top: 17.5px;
+}
+#hurricane{
+    text-shadow: 0px 2px 3px rgba(51, 51, 51, 1);
+    display: block;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffffff;
+    line-height: 1;
+    width: 236px;
+    position: absolute;
+    top: 1125px;
+    left: 12.5%;
+    -webkit-transform: translateZ(0) scale(1.0, 1.0);
+    transform: translate(-50%,-50%);
+    padding: 16px 3px;
+    border: 1px solid #ffffff;
+    background-color: rgba(0,52,76,.8);
+    background-image: url(//bbk12e1-cdn.myschoolcdn.com/ftpimages/709/site/1075/images/bg.png);
+    box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+#Guidance{
+    text-shadow: 0px 2px 3px rgba(51, 51, 51, 1);
+    display: block;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffffff;
+    line-height: 1;
+    width: 236px;
+    position: absolute;
+    top: 1125px;
+    left: 37.5%;
+    -webkit-transform: translateZ(0) scale(1.0, 1.0);
+    transform: translate(-50%,-50%);
+    padding: 16px 3px;
+    border: 1px solid #ffffff;
+    background-color: rgba(202, 17, 52, .8);
+    background-image: url(//bbk12e1-cdn.myschoolcdn.com/ftpimages/709/site/1075/images/bg.png);
+    box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+#CCNN{
+    text-shadow: 0px 2px 3px rgba(51, 51, 51, 1);
+    display: block;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffffff;
+    line-height: 1;
+    width: 236px;
+    position: absolute;
+    top: 1135px;
+    left: 62.5%;
+    -webkit-transform: translateZ(0) scale(1.0, 1.0);
+    transform: translate(-50%,-50%);
+    border: 1px solid #ffffff;
+    background-color: rgba(0,52,76,.8);
+    background-image: url(//bbk12e1-cdn.myschoolcdn.com/ftpimages/709/site/1075/images/bg.png);
+    box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+#Media{
+    text-shadow: 0px 2px 3px rgba(51, 51, 51, 1);
+    display: block;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffffff;
+    line-height: 1;
+    width: 236px;
+    position: absolute;
+    top: 1125px;
+    left: 87.5%;
+    -webkit-transform: translateZ(0) scale(1.0, 1.0);
+    transform: translate(-50%,-50%);
+    padding: 16px 3px;
+    border: 1px solid #ffffff;
+    background-color: rgba(0,52,76,.8);
+    background-image: url(//bbk12e1-cdn.myschoolcdn.com/ftpimages/709/site/1075/images/bg.png);
+    box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+.glance{
+    padding-top: 30px;
+    color: #00344C;
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 30px; 
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.money{
+    margin-left: 167.5px;
+    height: 285px;
+    width: 285px;
+}
+.glanceimg{
+    padding-left: 25px;
+    height: 285px;
+    width: 285px;
+}
+.h3glance{
+    margin-top: 45px;
+    padding-left: 25px;
+    font-size: 1.875em;
+    color: #ca0d33;
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+.h3glancemoney{
+    margin-top: 45px;
+    margin-left: 167.5px;
+    padding-left: 25px;
+    font-size: 1.875em;
+    color: #ca0d33;
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+.with{
+    display: inline-block;
+}
+.spanglancem{
+    margin-left: 167.5px;
+    padding-left: 25px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #333333;
+}
+.spanglance{
+    padding-left: 25px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #333333;
+}
+#honors{
+    margin: 100px 0 50px 200px;
+    padding: 15px 20px 30px 20px;
+    background-color: #10243B;
+    background-image: url(//bbk12e1-cdn.myschoolcdn.com/ftpimages/709/site/1075/images/bg.png);
+    text-shadow: 0px 2px 3px #333333;
+    color: #ffffff;
+    box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.6;
+    font-family: 'Open Sans', sans-serif;
+    width: 1045px;
+}
+.carosel{
+    background-color: #ffffff;
+    background-image: url(//bbk12e1-cdn.myschoolcdn.com/ftpimages/709/site/1075/images/bg3.png);
+    border-top: 1px solid #dfd2b0;
+    border-bottom: 1px solid #dfd2b0;
+    padding-top: 50px;
+}
+.h2carosel{
+    text-align: center;
+    font-size: 1.125em;
+    text-transform: none;
+    color: #00344C;
+    margin-bottom: 30px;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+.caroselimg{
+    width: 297px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.buttons3{
+    background-image: url(https://bbk12e1-cdn.myschoolcdn.com/ftpimages/709/site/1075/images/bg.png);
+    background-color: #10243B;
+    display: inline;
+    padding: 15px;
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+.b3img{
+    padding-left: 30px;
+}
+.b3img2{
+    padding-left: 30px;
+    padding-right: 315.535px;
+}
+.footer{
+    background-color: #333333;
+}
+.footertext{
+    margin-top: 30px;
+    text-transform: uppercase;
+    font-size: .875em;
+    margin-bottom: 50px;
+    letter-spacing: .05em;
+    color: #ffffff;
+    line-height: 1.6;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.footertext2{
+    font-style: italic;
+    margin-bottom: 50px;
+    opacity: .5;
+    font-size: .875em;
+    color: #ffffff;
+    line-height: 1.6;
+    font-family: 'Open Sans', sans-serif;
+}
+#backpik{
+    padding-top: 50px;
+    background-image: url(//bbk12e1-cdn.myschoolcdn.com/ftpimages/709/site/1075/images/bg.png), url(//bbk12e1-cdn.myschoolcdn.com/ftpimages/709/site/1075/images/CTA_bg.png);
+    background-color: #10243B;
+    color: #ffffff;
+    background-repeat: repeat, no-repeat;
+    background-size: auto, cover;
+    background-position: center center;
+}
